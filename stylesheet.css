@@ -1,0 +1,61 @@
+#form-box {
+  background-color: white;
+  width: 60%;
+  height: auto;
+  border-radius: 25px;
+  box-shadow: 5px 8px #ccc;
+  margin: 50px auto;
+}
+
+#form-box form {
+  padding: 20px;
+}
+
+#form-box input,
+#form-box select {
+  width: 180px;
+  padding: 5px 10px;
+}
+#form-box fieldset {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+#form-heading {
+  font-size: large;
+  margin: 10px;
+}
+.mandatory-field {
+  color: red;
+}
+
+.form-row {
+  margin-bottom: 10px;
+  width: 50%;
+  display: i;
+}
+
+:disabled {
+  background-color: red;
+}
+.form-row label {
+  display: inline-block;
+  width: 100px;
+}
+
+#form-box .footer {
+  margin: 20px;
+}
+
+#form-box .footer button {
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px #ddd;
+  border: none;
+  margin: 0px 0 20px 40%;
+}
+
+#form-box legend {
+  border: 1px solid #000;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
