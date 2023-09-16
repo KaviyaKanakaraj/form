@@ -1,0 +1,23 @@
+table {
+    width: 80%;
+    margin: 50px;
+}
+
+.delete-button {
+    padding: 10px;
+    padding-right: 0px;
+    border: none;
+    background-color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.delete-button:hover {
+    cursor:pointer;
+}
+
+.edit-button {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}

@@ -1,0 +1,46 @@
+body {
+  background-color: whitesmoke;
+  margin: 0;
+  font-size: 18px;
+}
+
+#sticky-nav {
+  background-color: white;
+  font-size: 30px;
+}
+
+#nav-logo {
+  max-width: 50px;
+}
+
+#logo-box {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  padding: 10px;
+  margin: 10px;
+  margin-top: 0;
+}
+
+li {
+  float: left;
+  padding: 10px;
+  margin: 5px;
+}
+
+li a {
+  text-decoration: none;
+}
+.hidden-form-field {
+  display: none;
+}
+
+footer {
+  background-color: var(--bgColor);
+}
